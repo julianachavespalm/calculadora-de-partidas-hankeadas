@@ -1,4 +1,4 @@
-# Calculadora de Partidas Ranqueadas
+# Calculadora de Partidas Rankeadas
 
 ## Autora: Juliana Chaves Palm
 
